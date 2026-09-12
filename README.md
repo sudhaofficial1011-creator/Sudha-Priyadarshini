@@ -1,11 +1,11 @@
-Hi, I'm Sudha Priyadarshini 👋
+# Hi, I'm Sudha Priyadarshini 👋
 
-Data Analyst | Healthcare IT | Biomedical Engineering
+### Data Analyst | Healthcare IT | Biomedical Engineering
 
 I'm transitioning into Data Analytics after a career break, 
 leveraging my background in Biomedical Engineering and healthcare.
 
-🔧 Skills
+## 🔧 Skills
 • SQL
 
 • Python
@@ -20,7 +20,8 @@ leveraging my background in Biomedical Engineering and healthcare.
 
 • Data Visualization
 
-📊 Projects
+## 📊 Projects
+
 • Healthcare Data Analysis – SQL
 
 • Sales/Business Dashboard – Power BI
@@ -29,15 +30,16 @@ leveraging my background in Biomedical Engineering and healthcare.
 
 • Excel Data Analysis Project
 
-🎓 Education
+## 🎓 Education
 
 M.E. Biomedical Engineering
 
-📜 Certifications
+## 📜 Certifications
 
 • Healthcare IT – Coursera
 
 • Data Analytics & Generative AI - Skillovilla
 
-📫 Connect with me
+## 📫 Connect with me
+
 LinkedIn: https://www.linkedin.com/in/sudha-priyadarshini-nagarajan-990137231/
