@@ -25,7 +25,7 @@ M.E. Biomedical Engineering
 
 📜 Certifications
 • Healthcare IT – Coursera
-• Data Analytics & Generative AI
+• Data Analytics & Generative AI - Skillovilla
 
 📫 Connect with me
 LinkedIn: [your LinkedIn]
