@@ -28,4 +28,4 @@ M.E. Biomedical Engineering
 • Data Analytics & Generative AI - Skillovilla
 
 📫 Connect with me
-LinkedIn: [your LinkedIn]
+LinkedIn: https://www.linkedin.com/in/sudha-priyadarshini-nagarajan-990137231/
