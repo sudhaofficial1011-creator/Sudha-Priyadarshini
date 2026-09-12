@@ -30,10 +30,13 @@ leveraging my background in Biomedical Engineering and healthcare.
 • Excel Data Analysis Project
 
 🎓 Education
+
 M.E. Biomedical Engineering
 
 📜 Certifications
+
 • Healthcare IT – Coursera
+
 • Data Analytics & Generative AI - Skillovilla
 
 📫 Connect with me
