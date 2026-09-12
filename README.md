@@ -7,17 +7,26 @@ leveraging my background in Biomedical Engineering and healthcare.
 
 🔧 Skills
 • SQL
+
 • Python
+
 • Power BI
+
 • Excel
+
 • Pandas
+
 • Healthcare IT
+
 • Data Visualization
 
 📊 Projects
 • Healthcare Data Analysis – SQL
+
 • Sales/Business Dashboard – Power BI
+
 • Python Data Analysis Project
+
 • Excel Data Analysis Project
 
 🎓 Education
